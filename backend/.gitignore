@@ -1,0 +1,6 @@
+/venv 
+.env
+*.sqlite3
+backend/__pycache__
+user/__pycache__
+product/__pycache__
