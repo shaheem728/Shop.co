@@ -36,3 +36,10 @@ Shop.co is a comprehensive platform for selling clothes, designed and developed 
    ```bash
    git clone https://github.com/shaheem728/Shop.co.git
 
+## Admin Panel for CRUD Operations
+
+The platform includes a robust admin panel powered by Django, enabling efficient product management through CRUD operations.  
+
+![Admin Panel](https://github.com/shaheem728/Shop.co/blob/main/frontend/public/images/adminpanel.png)
+
+
